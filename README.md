@@ -1,3 +1,7 @@
+## Assignement 1, Exploratory Data Analysis
+all the plotX.R relies on the data loaded in household_power_import.R
+more information on the dataset and how to download it below.
+
 ## Introduction
 
 This assignment uses data from
