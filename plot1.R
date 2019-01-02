@@ -1,6 +1,7 @@
-source('household_power_import.R')
+# TITLE: plot4
 
-?par
+# avoid time consuming process if object is loaded
+if(!exists('house_power')) {source('household_power_import.R')}
 
 png(filename = 'plot1.png', width = 480, height = 480)
 dev.cur()

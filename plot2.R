@@ -1,3 +1,5 @@
+# TITLE: plot2
+
 # avoid time consuming process if object is loaded
 if(!exists('house_power')) {source('household_power_import.R')}
 
